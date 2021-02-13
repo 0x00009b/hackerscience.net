@@ -14,5 +14,3 @@ When we use the word hacker we are usually referring to the guy using a black te
 
 So in the spirit of doing and making I have decided to create sort of a homage to the hacker sub culture and to FOSS community as without one we would not really have the other. 
 #
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
