@@ -14,3 +14,10 @@ When we use the word hacker we are usually referring to the guy using a black te
 
 So in the spirit of doing and making I have decided to create sort of a homage to the hacker sub culture and to FOSS community as without one we would not really have the other. 
 #
+
+## How to contribute
+
+This Website was made to be powered by everyone it was made as a place that allows people from anywhere to write and publish there artcles, fix bugs, and gain knowledge. 
+
+Contributions should be done through opening pull requests and issues and should ***follow our guidelines and code of conduct**
+
